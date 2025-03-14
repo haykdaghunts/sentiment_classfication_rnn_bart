@@ -12,7 +12,7 @@ sentiment_classification_rnn_bert
 │── sentiment_classification_rnn
 │   │── layers.py  # Custom Embedding and LSTM layers
 │   │── classifier.py  # RNN classifier combining custom layers
-│   │── main.py  # colab notebook preprocess data, train and evaluate the RNN model
+│   │── main.py  # colab notebook preprocessing data, training, and evaluating with RNN 
 │── sentiment_classification_bert.ipynb  # Colab notebook implementing sentiment classification with BERT
 │── README.md  # Project documentation
 ```
